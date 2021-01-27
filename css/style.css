@@ -1,0 +1,38 @@
+.sticky-top{
+    position: fixed;
+}
+.top{
+    background-color: rgb(241, 216, 220);
+}
+.orange-highlight{
+    color: tomato;
+}
+
+
+.penguin-card {
+  border: 20px solid white;
+  border-radius: 20px;
+  box-shadow: 5px 5px 20px rgb(245, 235, 235);
+}
+.penguin-card-footer {
+    border: none;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.penguin-card img{
+    background-color: rgb(230, 213, 213);
+}
+.box{
+    width: 400;
+    height: 150;
+    border: 5px solid white;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px gray;
+    display: flex;
+    margin: 5px;
+    padding: 2px;
+}
+.logo img{
+    width: 100px;
+}
